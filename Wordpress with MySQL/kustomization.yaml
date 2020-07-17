@@ -1,0 +1,9 @@
+resources:
+  - MySQL_Secrets.yaml
+  - MySQL_PVC.yaml
+  - MySQL_Service.yaml
+  - MySQL_Deployment.yaml
+  - WordPress_Secrets.yaml
+  - WordPress_PVC.yaml
+  - WordPress_Service.yaml
+  - WordPress_Deployment.yaml
